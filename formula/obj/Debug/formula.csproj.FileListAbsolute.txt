@@ -1,0 +1,10 @@
+C:\Users\innewvation\source\repos\formula\formula\bin\Debug\formula.exe.config
+C:\Users\innewvation\source\repos\formula\formula\bin\Debug\formula.exe
+C:\Users\innewvation\source\repos\formula\formula\bin\Debug\formula.pdb
+C:\Users\innewvation\source\repos\formula\formula\obj\Debug\formula.csprojAssemblyReference.cache
+C:\Users\innewvation\source\repos\formula\formula\obj\Debug\formula.StringFormatException.resources
+C:\Users\innewvation\source\repos\formula\formula\obj\Debug\formula.Properties.Resources.resources
+C:\Users\innewvation\source\repos\formula\formula\obj\Debug\formula.csproj.GenerateResource.cache
+C:\Users\innewvation\source\repos\formula\formula\obj\Debug\formula.csproj.CoreCompileInputs.cache
+C:\Users\innewvation\source\repos\formula\formula\obj\Debug\formula.exe
+C:\Users\innewvation\source\repos\formula\formula\obj\Debug\formula.pdb
